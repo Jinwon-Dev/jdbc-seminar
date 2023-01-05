@@ -11,6 +11,10 @@ public class Student {
         this.studentBirthday = studentBirthday;
     }
 
+
+    public Student() {
+    }
+
     public String getStudentNo() {
         return studentNo;
     }
